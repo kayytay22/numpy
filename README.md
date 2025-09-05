@@ -1,3 +1,4 @@
+I'm happy to be making my first edit, trying to figure this out sucked.
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </h1><br>
@@ -28,7 +29,7 @@ NumPy is the fundamental package for scientific computing with Python.
 - **Bug reports:** https://github.com/numpy/numpy/issues
 - **Report a security vulnerability:** https://tidelift.com/docs/security
 
-It provides:
+It provides: A headache for me to figure all of this out.
 
 - a powerful N-dimensional array object
 - sophisticated (broadcasting) functions
